@@ -1,0 +1,189 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en-US" class="lteie9 lteie8 lteie7 lteie6 ie6 no-js"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-US" class="lteie9 lteie8 lteie7 ie7 no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-US" class="lteie9 lteie8 ie8 no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-US" class="lteie9 ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<title>Project Sparks | Loyalty for Marks and Spencer</title>
+	
+	<!--  Mobile Viewport Fix -->
+	<meta name="viewport" content="initial-scale=1.0">
+    
+	<!-- Place favicon.ico and apple-touch-icon.png in the images folder -->
+	<link rel="shortcut icon" href="http://wp-sandbox.liveprototypes.com/wp-content/themes/boilerplate/images/favicon.ico">
+	<link rel="apple-touch-icon" href="http://wp-sandbox.liveprototypes.com/wp-content/themes/boilerplate/images/apple-touch-icon.png"><!--60X60-->
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+    
+    <link href='http://fonts.googleapis.com/css?family=Fjalla+One|Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+	
+	<link rel="stylesheet" href="http://wp-sandbox.liveprototypes.com/wp-content/themes/boilerplate/style.css" media="screen, projection">
+    <link rel="stylesheet" href="style.css" media="screen, projection">
+	
+		<script src="http://wp-sandbox.liveprototypes.com/wp-content/themes/boilerplate/js/modernizr.custom.js"></script>
+
+		<link rel="pingback" href="http://wp-sandbox.liveprototypes.com/xmlrpc.php">
+	
+	<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	
+	<link rel="alternate" type="application/rss+xml" title="Project Sparks &raquo; Feed" href="http://wp-sandbox.liveprototypes.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Project Sparks &raquo; Comments Feed" href="http://wp-sandbox.liveprototypes.com/?feed=comments-rss2" />
+<link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://wp-sandbox.liveprototypes.com/wp-includes/css/dashicons.min.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://wp-sandbox.liveprototypes.com/wp-includes/css/admin-bar.min.css?ver=4.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://wp-sandbox.liveprototypes.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://wp-sandbox.liveprototypes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	
+	</head>
+
+<body class="home blog logged-in admin-bar no-customize-support" >
+	<div class="hfeed container">
+		<header role="banner">
+			<hgroup>
+					<h1 class="site-title"><span><a href="http://wp-sandbox.liveprototypes.com/" title="Project Sparks" rel="home">Project Sparks</a></span></h1>
+					<h2 class="site-description">Loyalty for Marks and Spencer</h2>
+				</hgroup>
+
+	
+			
+			<nav class="main-menu" id="menu" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>			
+				
+				<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a>
+				</div>
+
+				<div class="menu"><ul><li class="page_item page-item-2"><a href="http://wp-sandbox.liveprototypes.com/?page_id=2">Sample Page</a></li></ul></div>
+			</nav>
+
+		</header>
+
+		<div class="line gut">
+
+						<section id="content" role="region" class="content mod left w70">
+			
+
+
+
+	<article id="post-1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized" role="article">
+		<header class="entry-header">
+			<h1 class="entry-title"><a href="http://wp-sandbox.liveprototypes.com/?p=1" title="Permalink to Hello world!" rel="bookmark">Hello world!</a></h1>		           
+
+            <div class="entry-meta entry-header">                            
+	                <span class="published">Published on <strong>March 2, 2015</strong></span>
+	                <span class="author">by <a href="http://wp-sandbox.liveprototypes.com/?author=1" title="Posts by admin" rel="author">admin</a></span>
+					<span class="entry-categories">in <a href="http://wp-sandbox.liveprototypes.com/?cat=1" rel="category">Uncategorized</a></span> -  <span class="comment-count"> <a href="http://wp-sandbox.liveprototypes.com/?p=1#comments" title="Comment on Hello world!">1 Comment</a></span> - 
+					<span class="permalink"><a title="Permanent Link to Hello world!" href="http://wp-sandbox.liveprototypes.com/?p=1">Permalink</a></span>                    		
+           </div>
+
+
+		</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+			<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+		</div><!-- .entry-summary -->
+		
+		<footer class="entry-meta">			
+						<span class="comments-link"><a href="http://wp-sandbox.liveprototypes.com/?p=1#comments" title="Comment on Hello world!">1 Comment</a></span>
+			<span class="meta-sep">|</span> <span class="edit-link"><a class="post-edit-link" href="http://wp-sandbox.liveprototypes.com/wp-admin/post.php?post=1&amp;action=edit">Edit</a></span>		</footer><!-- #entry-meta -->
+	</article><!-- #post-1 -->
+
+	
+
+
+</section>
+				<div id="secondary" class="widget-area sidebar content mod item">
+		
+		
+			<aside id="search-2" class="widget widget_search" role="complementary"><form role="search" method="get" id="searchform" action="http://wp-sandbox.liveprototypes.com/" >
+    <p><label class="screen-reader-text" for="s">Search for:</label>
+    <input type="search" value="" name="s" id="s"  autocomplete="on" placeholder ="What are you looking for?" />
+    <input type="submit" id="searchsubmit" value="Search" />
+    </p>
+    </form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries" role="complementary">		<h4 class="widget-title">Recent Posts</h4>		<ul>
+					<li>
+				<a href="http://wp-sandbox.liveprototypes.com/?p=1">Hello world!</a>
+						</li>
+				</ul>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments" role="complementary"><h4 class="widget-title">Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Mr WordPress</a></span> on <a href="http://wp-sandbox.liveprototypes.com/?p=1#comment-1">Hello world!</a></li></ul></aside><aside id="archives-2" class="widget widget_archive" role="complementary"><h4 class="widget-title">Archives</h4>		<ul>
+	<li><a href='http://wp-sandbox.liveprototypes.com/?m=201503'>March 2015</a></li>
+		</ul>
+</aside><aside id="categories-2" class="widget widget_categories" role="complementary"><h4 class="widget-title">Categories</h4>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://wp-sandbox.liveprototypes.com/?cat=1" >Uncategorized</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta" role="complementary"><h4 class="widget-title">Meta</h4>			<ul>
+			<li><a href="http://wp-sandbox.liveprototypes.com/wp-admin/">Site Admin</a></li>			<li><a href="http://wp-sandbox.liveprototypes.com/wp-login.php?action=logout&#038;_wpnonce=f823a86889">Log out</a></li>
+			<li><a href="http://wp-sandbox.liveprototypes.com/?feed=rss2">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wp-sandbox.liveprototypes.com/?feed=comments-rss2">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary .widget-area -->
+	</div><!-- #main  -->
+
+	<footer role="contentinfo">
+			<div class="widget-area">
+						</div>
+		
+			<div class="copyright">
+				<small> This theme is under <a href="http://wordpress.org/about/gpl/"> GPL V2 Licence </a> - Project Sparks  - <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform"   >Proudly powered by WordPress.</a></small>
+			</div>
+	</footer>
+</div>
+
+<script type='text/javascript' src='http://wp-sandbox.liveprototypes.com/wp-includes/js/admin-bar.min.js?ver=4.1.1'></script>
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+			request = true;
+
+			b[c] = b[c].replace( rcs, ' ' );
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs" role="navigation">
+			<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+			<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Top navigation toolbar." tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://wp-sandbox.liveprototypes.com/wp-admin/">Project Sparks</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu">
+		<li id="wp-admin-bar-dashboard"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/">Dashboard</a>		</li></ul><ul id="wp-admin-bar-appearance" class="ab-submenu">
+		<li id="wp-admin-bar-themes"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/themes.php">Themes</a>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/customize.php?url=http%3A%2F%2Fwp-sandbox.liveprototypes.com%2F">Customize</a>		</li>
+		<li id="wp-admin-bar-widgets"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/widgets.php">Widgets</a>		</li>
+		<li id="wp-admin-bar-menus"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/nav-menus.php">Menus</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-comments"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/edit-comments.php" title="0 comments awaiting moderation"><span class="ab-icon"></span><span id="ab-awaiting-mod" class="ab-label awaiting-mod pending-count count-0">0</span></a>		</li>
+		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://wp-sandbox.liveprototypes.com/wp-admin/post-new.php" title="Add New"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
+		<li id="wp-admin-bar-new-post"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/post-new.php">Post</a>		</li>
+		<li id="wp-admin-bar-new-media"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/media-new.php">Media</a>		</li>
+		<li id="wp-admin-bar-new-page"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/post-new.php?post_type=page">Page</a>		</li>
+		<li id="wp-admin-bar-new-user"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/user-new.php">User</a>		</li></ul></div>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://wp-sandbox.liveprototypes.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><input type="submit" class="adminbar-button" value="Search"/></form></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item"  aria-haspopup="true" href="http://wp-sandbox.liveprototypes.com/wp-admin/profile.php" title="My Account">Howdy, admin<img alt='' src='http://0.gravatar.com/avatar/4fca794da0cf08804f99048d3c8b39c1?s=26&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D26&amp;r=G' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
+		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://wp-sandbox.liveprototypes.com/wp-admin/profile.php"><img alt='' src='http://0.gravatar.com/avatar/4fca794da0cf08804f99048d3c8b39c1?s=64&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D64&amp;r=G' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>admin</span></a>		</li>
+		<li id="wp-admin-bar-edit-profile"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-admin/profile.php">Edit My Profile</a>		</li>
+		<li id="wp-admin-bar-logout"><a class="ab-item"  href="http://wp-sandbox.liveprototypes.com/wp-login.php?action=logout&#038;_wpnonce=f823a86889">Log Out</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://wp-sandbox.liveprototypes.com/wp-login.php?action=logout&#038;_wpnonce=f823a86889">Log Out</a>
+					</div>
+
+		<!-- The mains scripts you'll need for your site  -->
+<script src="http://wp-sandbox.liveprototypes.com/wp-content/themes/boilerplate/js/main.js"></script>
+
+
+
+
+</body>
+</html>samplesamplesa

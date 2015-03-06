@@ -1,0 +1,45 @@
+/*
+ Theme Name:   Clerkenwell
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Clerkenwell Theme
+ Author:       Matt Cooper-Wright
+ Author URI:   http://example.com
+ Template:     wordpress-bootstrap
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         responsive
+ Text Domain:  wordpress-bootstrap-child
+*/
+@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,700|Fjalla+One);
+
+body {
+    font-family: 'Roboto Slab', serif;
+    padding-top:40px;
+    }
+
+.navbar-brand {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.4em;
+    text-transform: uppercase;
+}
+.home-banner {
+    background-image:url('http://www.lorempixum.com/400/100');
+    background-position: top;
+    background-clip: border-box;
+    background-size: cover;
+    height:360px;
+    font-family: 'Fjalla One', sans-serif;
+    text-shadow: 1px 1px 0px rgba(150, 150, 150, 1);
+}
+.home-banner h1{font-size:6em;color:white;margin-top:60px;text-transform: uppercase}
+.home-banner h2{font-size:2em;color:white;}
+
+.home #main article {background-size: cover;}
+.home-grid article {padding:10px;color:white;background-color: #e7e7e7;}
+.home-grid .featured-post {background-size: cover;width:100%;height:200px;display:block;}
+.home .page-header {margin:0;padding:10px;}
+.home h2 {font-size:1.4em;}
+
+/* Typography */
+.h2 {font-family: 'Fjalla One', sans-serif;text-transform: uppercase;}

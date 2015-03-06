@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Fjalla+One);
+
+body#tinymce.wp-editor { 
+    font-family: 'Roboto Slab', Arial, Helvetica, sans-serif; 
+    margin: 10px; 
+}
+body#tinymce.wp-editor p{font-family: 'Roboto Slab', Arial, Helvetica, sans-serif;};
+
+body#tinymce.wp-editor a {
+    color: #4CA6CF;
+}
