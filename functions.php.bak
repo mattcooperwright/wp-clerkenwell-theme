@@ -41,21 +41,4 @@ function my_theme_add_editor_styles() {
 add_action( 'after_setup_theme', 'my_theme_add_editor_styles' );
 add_action( 'admin_init', 'my_theme_add_editor_styles' );
 
-function enable_more_buttons($buttons) {
-  $buttons[] = 'slide';
-  
-  return $buttons;
-}
-add_filter("mce_buttons_3", "enable_more_buttons");
-
-if( !function_exists('_add_my_quicktags') ){
-function _add_my_quicktags()
-{ ?>
-<script type="text/javascript">
-QTags.addButton( 'cl-slide', 'slide', '<div class="cl-slide">', '</div>' );
-</script>
-<?php }
-add_action('admin_print_footer_scripts', '_add_my_quicktags');
-}
-
 ?>

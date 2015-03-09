@@ -69,7 +69,7 @@
 		</header> <!-- end header -->
         
         <?php if(is_home()){
-                echo '<div class="home-banner" style="background-image:url('. display_images_from_media_library().');"><div class="dimmer"></div><div class="container"><h1>'.get_bloginfo('name').'</h1><h2>'.get_bloginfo('description').'</h2></div></div>';
+                echo '<div class="home-banner" ;"><div class="dimmer"></div><div class="container"><h1>'.get_bloginfo('name').'</h1><h2>'.get_bloginfo('description').'</h2></div></div>';
 }?>
 		
 		<div class="container">
