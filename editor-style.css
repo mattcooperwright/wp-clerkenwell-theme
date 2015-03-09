@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
+@font-face {
+	font-family: 'Domaine';
+	src: url('fonts/DomaineDisp-Semibold.eot');
+	src: local('☺'), url('fonts/DomaineDisp-Semibold.woff') format('woff'), url('fonts/DomaineDisp-Semibold.ttf') format('truetype'), url('fonts/DomaineDisp-Semibold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body#tinymce.wp-editor { 
+    font-family: 'Domaine', Arial, Helvetica, sans-serif; 
+    margin: 10px; 
+}
+body#tinymce.wp-editor p{font-family: 'Domaine', Arial, Helvetica, sans-serif;};
+
+body#tinymce.wp-editor a {
+    color: #4CA6CF;
+}
